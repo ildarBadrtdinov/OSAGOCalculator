@@ -39,7 +39,7 @@ public class JavaServlet extends HttpServlet {
 		double KOMultidrive = 1.8; //Для мультидрайва
 		double KM = 0; //Коэффициент мощности
 		double CalculatePrem; //Переменная для расчета страховой премии
-		String ResultHtml = "<!DOCTYPE html>\r\n" + 
+		String ResultHtml = "<!DOCTYPE html>  \r\n" + 
 				"<html>\r\n" + 
 				"<head>\r\n" + 
 				"<meta charset=\"UTF-8\">\r\n" + 
